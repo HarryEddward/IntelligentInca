@@ -1,10 +1,13 @@
-# Inteligent Inca S.L.
+# Intelligent Inca S.L.
 
-## Nom del comerç: Ca'n Inteligent
+## Nom del comerç: Ca'n Intelligent
 
-Som una empresa mallorquina d'un equip talentos de consultoria i creacio de solucions de programes enfocat a les empreses creat en el 2026. Esterem creant durant amb el temps una empresa consolidada amb nom Inquer per ajudar calmar els alts impostos que els negocis de avui en dia sofrim.
+Som una empresa mallorquina formada per un equip de professionals talents en consultoria i creació de solucions de programari, enfocades a les empreses. Fundada el 2026, el nostre objectiu és consolidar una empresa amb el nom Inquer, per ajudar els negocis locals a reduir els costos i afrontar millor els alts impostos que afecten l’activitat empresarial actual.
 
-Cream solucions modernes i inteligents en tot tipus de software en Mallorca per conclusio optimizar costos de les activitats i procesos de les mateixes empreses.
+Creem solucions modernes i intel·ligents per a tot tipus de programari a Mallorca, amb l’objectiu d’optimitzar costos i millorar l’eficiència en les activitats i processos de les empreses.
 
-## La nostra missio
-La nostra missio es proporcionar a tot tipus de empreses de qualsevol sector en Mallorca, solucions estandaritzades per comunicarse amb mes facilitat entre elles i optimizar els costs de produccio a traves de aplicacions modernes i inteligents
+## La nostra missió
+La nostra missió és proporcionar a empreses de tots els sectors a Mallorca solucions estandarditzades que els permetin comunicar-se amb més facilitat, automatitzar processos i optimitzar els costos de producció a través d’aplicacions modernes i intel·ligents.
+
+## Com hu ferem?
+Ajudarem a traves d'un process analitic de les activitats empresrials sobre les empreses a demunt de una consultoria especialitzada per cada empresa, i el tipus de sector a la qual es especialitza. I proporcionar una estandariztacio moderna del sistemes empresarials sobre el sector a la qual ens enfocarem a donar la solucio moderna empresrial que donariem a la empresa client aplicant funcions inteligents si hi fagues falta en tot cas.
