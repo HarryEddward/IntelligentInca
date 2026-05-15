@@ -2,7 +2,7 @@
 
 ## Nom del comerç: Ca'n Intelligent
 
-![Logo](https://github.com/HarryEddward/IntelligentInca/blob/main/.github/logo.png)
+<img src="https://github.com/HarryEddward/IntelligentInca/blob/main/.github/logo.png" width="35%">
 
 Som una empresa mallorquina formada per un equip de professionals talents en consultoria i creació de solucions de programari, enfocades a les empreses. Fundada el 2026, el nostre objectiu és consolidar una empresa amb el nom Inquer, per ajudar els negocis locals a reduir els costos i afrontar millor els alts impostos que afecten l’activitat empresarial actual.
 
