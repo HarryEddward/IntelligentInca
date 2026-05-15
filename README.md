@@ -1,10 +1,10 @@
-# Intelligent Inca S.L.
+# Inteligent Inca S.L.
 
-## Commerce name: Ca'n Inteligent
+## Nom del comerç: Ca'n Inteligent
 
-We make intelligent solutions to modernize all software from Mallorca optimizing costs from business activties and proceses.
+Som una empresa mallorquina d'un equip talentos de consultoria i creacio de solucions de programes enfocat a les empreses creat en el 2026. Esterem creant durant amb el temps una empresa consolidada amb nom Inquer per ajudar calmar els alts impostos que els negocis de avui en dia sofrim.
 
-We are from native Inca persons to offer a modernized app solutions from all types of local business in Mallorca.
+Cream solucions modernes i inteligents en tot tipus de software en Mallorca per conclusio optimizar costos de les activitats i procesos de les mateixes empreses.
 
-### Mission
-Our mission is standarize all business software from all commereces sector types in our islands, to avoid the presion taxes from the goverment.
+## La nostra missio
+La nostra missio es proporcionar a tot tipus de empreses de qualsevol sector en Mallorca, solucions estandaritzades per comunicarse amb mes facilitat entre elles i optimizar els costs de produccio a traves de aplicacions modernes i inteligents
