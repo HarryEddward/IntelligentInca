@@ -1,6 +1,6 @@
-# Intelligent Inca
+# Intelligent Inca S.L.
 
-## Ca'n Inteligent
+## Commerce name: Ca'n Inteligent
 
 We make intelligent solutions to modernize all software from Mallorca optimizing costs from activties and business proceses.
 
