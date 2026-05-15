@@ -1,5 +1,7 @@
 # Intelligent Inca
 
+## Ca'n Inteligent
+
 We make intelligent solutions to modernize all software from Mallorca optimizing costs from activties and business proceses.
 
 We are from native Inca persons to offer a modernized app solutions from all types of local business in Mallorca.
