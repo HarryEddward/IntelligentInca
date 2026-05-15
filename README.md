@@ -15,4 +15,4 @@ Ajudarem a traves d'un process analitic de les activitats empresrials sobre les 
 ## Presencia de marca
 Al principi, començarem en digital fins asentar una base de clientes, socis comercials i un bon equip per arribar a emprende desde un local per donar presencia i confiança als nostres clients pugin arribar al nostre local en fisic per cualsevol consulta o conflicte comercial.
 
-![Mockup Building](https://github.com/HarryEddward/IntelligentInca/blob/main/.github/mockup_building.png)
+![Mockup Building](https://github.com/HarryEddward/IntelligentInca/blob/main/.github/file_00000000f8dc71f48a0b01b4d70cbdea.png)
